@@ -1,1 +1,1 @@
-# yizhangzhishan.github.io
+# .github.io
